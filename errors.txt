@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label cek_jawabanbahasa1 is defined twice, at File "game/script.rpy", line 137:
+label cek_jawabanbahasa1:
+and File "game/script.rpy", line 177:
+label cek_jawabanbahasa1:
+
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Fri Jun 28 17:56:47 2024
